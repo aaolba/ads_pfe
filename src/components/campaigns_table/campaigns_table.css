@@ -1,0 +1,18 @@
+.status_active{
+    background: rgb(57, 180, 57);
+    width: 80px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+.status-paused{
+    background: rgb(236, 52, 45);
+    width: 80px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+.tableLink{
+    text-decoration: none;
+    color: black;
+}

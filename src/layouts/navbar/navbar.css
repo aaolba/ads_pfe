@@ -1,0 +1,13 @@
+.navbar_links_container{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.navbar_link{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 40px;
+
+}
